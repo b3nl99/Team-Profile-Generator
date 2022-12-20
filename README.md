@@ -16,7 +16,9 @@ Module 10 Challenge
   ---
   ### Step 1: You may need to clone or doenload the repository to your local machine and run it from your command line.
   ### Step 2: Then, make sure that your repo includes a package.json with the required dependencies.
-  ### Step 3: 
+  ### Step 3: Run "npm i inquirer@8.2.4"
+  ### Step 4: Run "node index.js" in your terminal to run the program, and the first question will appear in yoor terminal.
+  ### Step 5: Run "npm run test" to see if jest test is working.
 
 
 
@@ -33,7 +35,8 @@ Module 10 Challenge
   ## Tests:
   ---
   ### Run the following commands in your terminal to test his app:
-  ### 
+  ### 1) Run "npm i jest" to install jest test.
+  ### 2) create test.js files to run your test.
 
   ## Questions:
   ### If your have any questions, you may contact me at either
