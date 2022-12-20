@@ -59,7 +59,7 @@ const generateEngineer = engineerTitle => { return engineerTitle.map(engineer =>
             <ul class="list-group list-group-flush">
                 <li class="list-group-item">Id: ${engineer.getId()}</li>
                 <li class="list-group-item">Email: <a href="mail-to">${engineer.getEmail()}</a></li>
-                <li class="list-group-item">GitHub: </li>
+                <li class="list-group-item">GitHub: ${engineer.getGithub()}</li>
             </ul>
         </div>
     </div>
